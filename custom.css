@@ -1,0 +1,2391 @@
+
+
+.page-id-3344 #mk-footer {display:none;}
+.page-id-2814 a#detalii-poze-camp:hover {background-color:#015e70; color:#f1eedb;border:2px solid #015e70;}
+.page-id-2814 a#detalii-poze-camp {padding:5px 31px;border: 2px solid #015e70;font-size: 20px;text-transform: uppercase;}
+.page-id-2814 .activitati-ribbon span {position: relative;bottom: 0px;left: 0px;}
+.page-id-2814 .activitati-ribbon {position: absolute;bottom: 22px;margin:auto;height: 44px;width:100%;}
+.page-id-2814 .activitati-ribbon span,  .page-id-2814 .faq-camp span,.page-id-2814 .info-camp-ribbon span {display:inline-block;height:38px;line-height:38px!important;}
+@media only screen and (min-width: 768px) and (max-width:1024px) {
+    .page-id-2814 .activitati-ribbon span, .page-id-2814 .faq-camp span, .page-id-2814 .info-camp-ribbon span {height: 28px;line-height: 28px!important;}
+    .page-id-2814 #footer-camp .footer-title-camp:after{width: 60%;}
+    .page-id-2814 #footer-camp .footer-title-camp-fullwidth:after{display:block!important;content: "";width: 60%;height: 2px;background-color: #f2ecd9;display: block; margin-top: 4px;}
+    .page-id-2814 #intrebari-frecvente-section  .intrebari-frecvente-col-desktop .mk-padding-shortcode{height:166px!important;}
+    .page-id-2814 #pricing-section .mk-button-align.center, .mk-button-align.left, .mk-button-align.right {height: 95px;}
+    .page-id-2814 #pricing-section .mk-padding-shortcode{height:30px!important;}
+    .page-id-2814 #info-tabara-section .mk-image{text-align:center!important;}
+    .page-id-2814 #info-tabara-section .info-camp-first-col .mk-padding-shortcode{height:185px!important;}
+    .page-id-2814 #info-tabara-section .mk-image img{max-width: 75%;}
+    .page-id-2814 #info-tabara-section .main-text-info-camp span {line-height:24px!important;}
+    .page-id-2814 .faq-camp span,.page-id-2814 .info-camp-ribbon span,.page-id-2814 .activitati-ribbon span {padding: 5px 10px;}
+    .page-id-2814 .faq-camp ,.page-id-2814 .info-camp-ribbon {font-size:22px!important;}
+    .page-id-2814 .text-main-wrp span {line-height: 24px!important;}
+    .page-id-2814 .text-activitati span {font-size: 18px;}
+    .page-id-2814 .text-activitati {line-height: 70px!important;}
+    .page-id-2814 .activitati-ribbon span {position: relative;bottom: 0px;left: 0px;}
+    .page-id-2814 .activitati-ribbon {font-size:22px!important;position: absolute;bottom: 38px;margin:auto;height: 44px;width:100%;}
+    .activitati-ribbon span:before,
+    .info-camp-ribbon span:before,
+    .faq-camp span:before {border-width: 19px 21px!important;}
+    .activitati-ribbon span:after,
+    .info-camp-ribbon span:after,
+    .faq-camp span:after {border-width: 19px 21px!important;}
+    .muzica-bongos:after,
+    .partasie-biblie:after,
+    .foc-de-tabara-foc:after,
+    .jocuri-de-grup-tinta:after {right: -35px;width: 70px;height: 70px;}
+    .volei-minge:before,
+    .drumetie-harta:before,
+    .rop-course-tiroliana:before,
+    .team-building-scule:before {left: -35px;width: 70px;height: 75px;}
+
+    .page-id-2814 #fancy-title-5743879e4b49d {
+        margin-t-1024op:30px!important;
+    }
+    .page-id-2814 #fancy-title-5743879e4b669 {
+        margin-bottom:30px!important;
+    }
+    .footer-title-camp-fullwidth:after {
+        display:none!important;
+    }
+
+    .page-id-2814 #footer-camp {
+        padding-bottom:0px;
+    }
+    .page-id-2814 #faq-section .dim-768-creier {
+        display:block!important;
+    }
+    #pricing-section a#cumpara-camp {
+        padding: 5px 18px;
+        font-size: 12px;
+    }
+    #pricing-section .page-section-fullwidth .mk-button {
+        margin-right:0;
+    }
+    #pricing-section .page-section-fullwidth .mk-padding-wrapper {
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+    }
+    #pricing-section .price-camp, #pricing-section .simple-title {font-size:14px!important;}
+    #pricing-section .title-pricing-camp{font-size:20px!important;}
+
+
+.page-id-2814 #activitati-section-mobile{
+    display:none!important;
+}
+}
+
+
+.page-id-2814 .only-mobile{
+    display:none;
+}
+
+.page-id-2814 .only-desktop{
+    display:block;
+}
+
+.page-id-3137 #mk-footer,
+.page-id-3176 #mk-footer,
+.page-id-3178 #mk-footer,
+.page-id-3181 #mk-footer
+{display:none;}
+.page-id-3137 .completati,
+.page-id-3176 .completati,
+.page-id-3178 .completati,
+.page-id-3181 .completati
+{width:100%;}
+
+
+#sub-footer-camp{margin-top: -1px;margin-bottom: -20px!important;}
+a.footer-designed-by, a.footer-developed-by,a.footer-copyright-camp {text-align: center;color: #f2ecd9;}
+.footer-text-camp {padding-right:55px;}
+.footer-title-camp:after {content: "";width: 310px;height: 2px;background-color: #f2ecd9;display: block;margin-top: 4px;}
+.footer-title-camp-fullwidth:after {content: "";width: 100%;height: 2px;background-color: #f2ecd9;display: block;margin-top: 4px;}
+
+#footer-camp-head{
+    background-size: 103%;
+    min-height: auto!important;
+    padding-bottom:0;
+    margin-bottom:-1px;
+}
+
+#cumpara-camp:hover {
+    background-color:#f2ecd9;
+    border:2px solid #f2ecd9;
+    color:#005e70;
+}
+
+a#cumpara-camp {
+    padding: 5px 31px;
+    color: #f2ecd9;
+    border: 2px solid #f2ecd9;
+    font-size: 20px;
+}
+
+
+.price-camp span {
+    margin-bottom:40px!important;
+}
+
+
+.title-pricing-camp {
+    font-size:30px!important;
+}
+
+
+
+.position-backpack {
+    position:relative;
+    height:575px;
+}
+
+.faq-camp span {
+    position:relative;
+    height:44px;
+}
+
+.info-camp-ribbon span {
+    position:relative;
+    height:44px;
+}
+.activitati-ribbon span {
+    /*position:absolute;*/
+    z-index:99;
+    /*bottom:50px;*/
+    /*left:80px;*/
+    height:44px;
+}
+
+
+
+ .info-camp-ribbon span:before,
+ .faq-camp span:before{
+     border-color: #015e70 #015e70 #015e70 transparent;
+ }
+
+ .info-camp-ribbon span:after, .faq-camp span:after {
+     border-color: #015e70 transparent #015e70 #015e70;
+ }
+
+.activitati-ribbon span:before {
+    border-color: #f1eedb #f1eedb #f1eedb transparent;
+}
+.activitati-ribbon span:before, .info-camp-ribbon span:before,
+.faq-camp span:before{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0px;
+    left: -40px;
+    top: 0px;
+    border-width: 24px 20px;
+    border-style: solid;
+
+}
+.activitati-ribbon span:after {
+    border-color: #f1eedb transparent #f1eedb #f1eedb;
+}
+
+.activitati-ribbon span:after, .info-camp-ribbon span:after,
+.faq-camp span:after{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0px;
+    right: -40px;
+    top: 0px;
+    border-width: 24px 20px;
+    border-style: solid;
+}
+
+.text-activitati {
+    position:relative;
+    line-height: 80px!important;
+}
+.text-activitati span {
+    font-size:26px;
+    /*font-weight:bold;*/
+}
+
+.info-camp-ribbon span, .faq-camp span {
+    background-color:#015e70!important;
+    padding: 5px 40px;
+
+}
+.activitati-ribbon span {
+    background-color: #f1eeda!important;
+    padding: 5px 40px;
+}
+
+.muzica-bongos,
+.partasie-biblie,
+.foc-de-tabara-foc,
+.jocuri-de-grup-tinta {
+    margin-right:70px;
+}
+
+.volei-minge,
+.drumetie-harta,
+.rop-course-tiroliana,
+.team-building-scule {
+    margin-left:70px;
+}
+.muzica-bongos:after,
+.partasie-biblie:after,
+.foc-de-tabara-foc:after,
+.jocuri-de-grup-tinta:after{
+    right: -50px;
+    position: absolute;
+    top: 5px;
+    content: "";
+    width: 80px;
+    height: 80px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.volei-minge:before ,
+.drumetie-harta:before,
+.rop-course-tiroliana:before,
+.team-building-scule:before {
+    left: -50px;
+    position: absolute;
+    top: 5px;
+    content: "";
+    width: 80px;
+    height: 90px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.muzica-bongos:after {
+    background-image: url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/1.-Musica.png);
+}
+
+.partasie-biblie:after {
+    background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/2.-Partasie.png);
+}
+.foc-de-tabara-foc:after {
+    background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/3.-Foc-de-tabara.png);
+}
+.jocuri-de-grup-tinta:after {
+    background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/4.-Jocuri-de-grup.png);
+}
+.volei-minge:before {
+    background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/5.-Volei.png);
+}
+.drumetie-harta:before {
+    background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/6.-Drumetie.png);
+}
+.rop-course-tiroliana:before {
+    background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/7.-Rope-Course.png);
+}
+.team-building-scule:before {
+    background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/8-Team-Building.png);
+}
+.page-id-2814 ::selection {
+    background-color:#66c3bc;
+}
+
+
+
+.page-id-2814 #mk-footer {
+    display:none;
+}
+
+
+/*summer camp page-id-2814 end*/
+/*Montserrat fonts*/
+
+@font-face {
+    font-family: Montserrat-UltraLight;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/montserrat/Montserrat-UltraLight.otf);
+}
+
+@font-face {
+    font-family: Montserrat-Hairline;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/montserrat/Montserrat-Hairline.otf);
+}
+
+@font-face {
+    font-family: Montserrat-Light;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/montserrat/Montserrat-Light.otf);
+}
+
+
+/*Museo Sans fonts*/
+
+@font-face {
+    font-family: MuseoSansSemibold;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/museosans/MuseoSans_1.otf);
+}
+
+@font-face {
+    font-family: MuseoSansUltrabold;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/museosans/Museo900-Regular_0.otf);
+}
+
+@font-face {
+    font-family: MuseoSansRegular;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/museosans/MuseoSans_2.otf);
+}
+
+@font-face {
+    font-family: MuseoSansLight;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/museosans/MuseoSans-300.otf);
+}
+
+@font-face {
+    font-family: MuseoSansTight;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/museosans/MuseoSans-100.otf);
+}
+
+@font-face {
+    font-family: Aldo;
+    src: url(https://www.sanctusprodeo.ro/wp-content/themes/ken/stylesheet/font/aldo/Aldo.ttf);
+}
+/*Museo Sans fonts end*/
+
+
+/*header video*/
+
+
+.sun_is_up{
+  background-image: url('/wp-content/uploads/2016/05/sung-gif-5.gif');
+  width: 660px;
+  height: 460px;
+  left: 300px;
+  position: absolute;
+  z-index: 0;
+background-repeat: no-repeat;
+}
+
+.relief{
+  background-image:url(/wp-content/uploads/2016/05/relief-header.svg);
+  background-repeat:no-repeat;
+  background-position: bottom;
+  background-size: 100% auto;
+  width:100%;
+  height:922px;
+  z-index:10;
+  position: absolute;
+  max-height: 100%;
+bottom: 0px;
+min-height: 320px;
+}
+
+.strat-1, .strat-11, .strat-12, .strat-13, .strat-14, .strat-15, .strat-16, .strat-17, .strat-18{
+  position: absolute;
+  left: -250px;
+  top: 40px;
+  width: 100%;
+  z-index: 2;
+}
+
+.strat-1 {
+  -webkit-animation: strat-1 80s linear;
+  -moz-animation: strat-1 80s linear;
+  -o-animation: strat-1 80s linear;}
+.strat-11 {
+  -webkit-animation: strat-11 80s linear;
+  -moz-animation: strat-11 80s linear;
+  -o-animation: strat-11 80s linear;}
+.strat-12 {
+  -webkit-animation: strat-12 80s linear;
+  -moz-animation: strat-12 80s linear;
+  -o-animation: strat-12 80s linear;}
+.strat-13{
+  -webkit-animation: strat-delay 80s linear ;
+  -moz-animation: strat-delay 80s linear ;
+  -o-animation: strat-delay 80s linear ;}
+.strat-14, strat-15, strat-16, strat-17, strat-18  {
+  -webkit-animation: strat-delay 80s linear infinite;
+  -moz-animation: strat-delay 80s linear infinite;
+  -o-animation: strat-delay 80s linear infinite;
+  -webkit-animation-delay:15s;
+  animation-delay:15s;}
+.strat-15 {
+  -webkit-animation-delay:30s;
+  animation-delay:30s;}
+.strat-16 {
+  -webkit-animation-delay:45s;
+  animation-delay:45s;}
+.strat-17 {
+  -webkit-animation-delay:60s;
+  animation-delay:60s;}
+.strat-18 {
+  -webkit-animation-delay:75s;
+  animation-delay:75s;}
+
+
+
+/*STRAT MIJLOC*/
+.strat-2, .strat-21, .strat-22,.strat-23,.strat-24 {
+  position: absolute;
+  left: -250px;
+  top: 120px;
+  width: 100%;
+  z-index:2;
+}
+.strat-2 {
+  -webkit-animation: strat-2 120s linear;
+  -moz-animation: strat-2 120s linear;
+  -o-animation: strat-2 120s linear;}
+.strat-21 {
+  -webkit-animation: strat-21 120s linear;
+  -moz-animation: strat-21 120s linear;
+  -o-animation: strat-21 120s linear;}
+.strat-22 {
+  -webkit-animation: strat-2-delay 120s linear infinite;
+  -moz-animation: strat-2-delay 120s linear infinite;
+  -o-animation: strat-2-delay 120s linear infinite;}
+.strat-23 {
+  -webkit-animation: strat-2-delay 120s linear infinite;
+  -moz-animation: strat-2-delay 120s linear infinite;
+  -o-animation: strat-2-delay 120s linear infinite;
+  -webkit-animation-delay:40s;
+  animation-delay:40s;}
+.strat-24 {
+  -webkit-animation: strat-2-delay 120s linear infinite;
+  -moz-animation: strat-2-delay 120s linear infinite;
+  -o-animation: strat-2-delay 120s linear infinite;
+  -webkit-animation-delay:65s;
+  animation-delay:65s;}
+
+.strat-2 img, .strat-21 img, .strat-22 img, .strat-23 img, .strat-24 img {
+  width: 180px;
+}
+/*STRAT MIJLOC END*/
+
+
+/*STRAT JOS*/
+.strat-3, .strat-31, .strat-32, .strat-33, .strat-34 {
+  position: absolute;
+  left: -250px;
+  top: 230px;
+  width: 100%;
+  z-index: 2;
+}
+.strat-3{
+  z-index: 1;
+  -webkit-animation: strat-3 90s linear;
+  -moz-animation: strat-3 90s linear;
+  -o-animation: strat-3 90s linear;
+}
+.strat-31 {
+  -webkit-animation: strat-31 90s linear;
+  -moz-animation: strat-31 90s linear;
+  -o-animation: strat-31 90s linear;
+}
+.strat-32, .strat-33, .strat-34 {
+  z-index: 1;
+  -webkit-animation: strat-3-delay 90s linear infinite;
+  -moz-animation: strat-3-delay 90s linear infinite;
+  -o-animation: strat-3-delay 90s linear infinite;
+}
+
+.strat-32{
+  z-index: 1;
+}
+.strat-33 {
+  -webkit-animation-delay:30s;
+  animation-delay:30s;
+}
+.strat-34 {
+  z-index: -1;
+  -webkit-animation-delay:65s;
+  animation-delay:65s;
+}
+
+
+
+/*STRAT JOS END*/
+
+@-webkit-keyframes strat-1 {
+  0% {left: 66%;}
+  100% {left: 216%;}
+}
+@-webkit-keyframes strat-11 {
+  0% {left: 33%}
+  100% {left: 183%}
+}
+@-webkit-keyframes strat-12 {
+  0% {left: 0%}
+  100% {left: 150%}
+}
+@-webkit-keyframes strat-delay {
+  0% {left: -33%}
+  100% {left: 127%}
+}
+
+
+/*STRAT MIJLOC*/
+
+@-webkit-keyframes strat-2 {
+  0% {left: 75%}
+  100% {left: 225%}
+}
+@-webkit-keyframes strat-21 {
+  0% {left: 25%}
+  100% {left: 175% }
+}
+@-webkit-keyframes strat-2-delay {
+  0% {left: -25%}
+  100% {left: 125%}
+}
+
+/*STRAT MIJLOC END*/
+
+
+
+/*STRATUL DE JOS*/
+@-webkit-keyframes strat-3 {
+  0% {left: 80%}
+  100% {left: 230%}
+}
+
+@-webkit-keyframes strat-31 {
+  0% {left: 20%
+  }
+  100% {left: 170%}
+}
+
+@-webkit-keyframes strat-3-delay {
+  0% {left: -30%}
+  100% {left: 180%}
+}
+/*header video end*/
+.header_page{
+  position: relative;
+  background-color: #005E70;
+}
+.header_page .sky{
+  background-color: #85D1C7;
+  position: relative;
+}
+
+.header_page .mk-page-section .page-section-fullwidth {
+  padding-top: 0px;
+}
+
+.header_page.mk-page-section .page-section-fullwidth {
+  padding-top: 0px !important;
+}
+
+.page-id-2814 .connection-camp-title {
+  text-shadow: -2px 3px 0px #337d8d;
+  color: #f2ecd9;
+}
+
+div.sky-text {
+  position: absolute;
+  top: 210px;
+  width: 100%;
+  z-index: 11;
+}
+
+.header_page .mk-button-align{
+  z-index: 11;
+  position: relative;
+}
+.page-id-2814 .rasnov-location {
+    font-size:33.8px !important;
+}
+
+.page-id-2814 .for-sanctus-pro-deo {
+  text-shadow: -2px 3px 0px #337d8d;
+  color: #f2ecd9;
+  font-size:44px !important;
+}
+
+a#vreau-si-eu-btn-camp {
+  color: #337d8d;
+  border: 2px solid;
+  padding: 10px 30px;
+  font-size: 1.2em;
+  display: inline-block;
+  margin-right: 0;
+  margin-right: 3px;
+}
+
+
+.page-id-2814 #vreau-si-eu-btn-camp:hover {
+    color:#f1eedb;
+    background-color:transparent;
+    border:3px solid #f1eedb;
+}
+
+.page-id-2814 #vreau-si-eu-btn-camp {
+    padding:5px 30px;
+    border:3px solid #337d8d;
+    font-size:20px;
+    color: #337d8d;
+}
+.page-id-2814 #vreau-si-eu-btn-camp {
+}
+
+.header_page .wpb_raw_html {
+  margin-bottom: 0px;
+}
+
+div.sky-text h3, div.sky-text h2, div.sky-text > div {
+  width: 1065px;
+  margin: 0 auto;
+  text-align: right !important;
+  max-width: 100%;
+  font-family: MuseoSansRegular;
+}
+
+.header_page .page-section-fullwidth.vc_row-fluid.page-section-content {
+  margin-top: 0 !important;
+}
+
+.page-id-2814 h2, .page-id-2814 h3{
+    font-family: PT Sans;
+}
+
+.header_page .page-section-fullwidth,.header_page .mk-padding-wrapper, .header_page .column_container, .header_page .wpb_raw_html, .header_page .wpb_wrapper, .header_page .sky, .header_page .relief {
+  height: 100%;
+  min-height:320px !important;
+}
+
+.header_page .page-section-fullwidth.vc_row-fluid.page-section-content {
+  padding-bottom: 0 !important;
+}
+
+#header-video-camp{
+    min-height:320px !important;
+}
+
+/*  end header */
+
+
+
+
+@media screen and (max-width: 1075px){
+.mk-event-countdown li {
+width: 40px!important;
+padding: 10px 0!important;
+}
+
+.mk-event-countdown li .countdown-text {
+display: none;
+}
+
+.mk-event-countdown li .countdown-timer {
+font-size: 14px!important;
+}
+
+}
+.widget_testimonials .testimonial-slider{
+    padding:0!important;
+}
+
+.size-30{
+    font-size: 30px;
+}
+.left-10px{
+    margin-left: 10px;
+}
+.widgettitle:after {
+background-color: #ff4351;
+}
+.bottom-border-3{
+    border-bottom: 3px solid #ff4351!important;
+}
+.top-border-3{
+    border-top: 3px solid #ff4351;
+}
+#sub-footer {
+    border-top:3px solid #ff4351 !important;
+}
+
+
+#mk-page-title {
+padding: 10px 0;
+}
+
+.main-navigation-ul>li.has-mega-menu>ul.sub-menu, .main-navigation-ul>li.no-mega-menu>ul{
+    margin-top: 0;
+}
+
+
+.font-size-doneaza p{
+    font-size:15px;
+}
+
+.mk-button.large {
+    min-width: 78px;
+}
+.home-header{
+ min-height: 400px;
+}
+/*#mk-page-title.left-align .mk-page-heading{
+
+    margin: 0 0 0 35px!important;
+}
+#mk-page-title.left-align #mk-breadcrumbs{
+    margin-right: 35px;
+}
+*/
+
+#mk-header .mk-grid {
+position: relative;
+/*padding-left: 35px;
+padding-right: 35px;*/
+}
+
+#sub-footer .mk-grid{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.vc_col-xs-1, .vc_col-sm-1, .vc_col-md-1, .vc_col-lg-1, .vc_col-xs-2, .vc_col-sm-2, .vc_col-md-2, .vc_col-lg-2, .vc_col-xs-3, .vc_col-sm-3, .vc_col-md-3, .vc_col-lg-3, .vc_col-xs-4, .vc_col-sm-4, .vc_col-md-4, .vc_col-lg-4, .vc_col-xs-5, .vc_col-sm-5, .vc_col-md-5, .vc_col-lg-5, .vc_col-xs-6, .vc_col-sm-6, .vc_col-md-6, .vc_col-lg-6, .vc_col-xs-7, .vc_col-sm-7, .vc_col-md-7, .vc_col-lg-7, .vc_col-xs-8, .vc_col-sm-8, .vc_col-md-8, .vc_col-lg-8, .vc_col-xs-9, .vc_col-sm-9, .vc_col-md-9, .vc_col-lg-9, .vc_col-xs-10, .vc_col-sm-10, .vc_col-md-10, .vc_col-lg-10, .vc_col-xs-11, .vc_col-sm-11, .vc_col-md-11, .vc_col-lg-11, .vc_col-xs-12, .vc_col-sm-12, .vc_col-md-12, .vc_col-lg-12{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+
+}
+.padding-right-25{
+    padding-right:25px!important;
+}
+.padding-left-25{
+    padding-left:25px!important;
+}
+.padding-right-15{
+    padding-right: 15px !important;
+}
+.padding-left-15{
+    padding-left: 15px !important;
+}
+
+.vc_row {
+ margin-left: 0!important;
+ margin-right: 0!important;
+}
+#mk-footer ul{
+    margin-right: 20px!important;
+}
+#sub-footer .mk-footer-copyright {
+    margin-left: 20px!important;
+}
+.subscribe #s2email{
+    border: 3px solid #fff;
+    background-color: rgba(255,255,255,.1);
+    color: #fff;
+    min-width: 237px;
+}
+.subscribe label{
+    display: none;
+}
+
+.subscribe input:nth-child(2){
+    margin-left: 9px;
+}
+
+.subscribe input[type=submit] {
+    margin-top: 12px;
+    padding: 12px 20px;
+    border: none;
+    color: white;
+    background-color: #ff4351;
+    text-transform: uppercase;
+}
+
+#mk-footer .footer-wrapper {
+    margin-bottom: 0;
+}
+#mk-footer {
+    padding: 50px 0 0;
+}
+#sub-footer .mk-grid{
+    padding-left :0;
+    padding-right: 0;
+}
+
+.contact .mk-button{
+    color: #ffffff!important;
+}
+.left{
+    float:left!important;
+}
+@media (min-width: 1140px){
+#mk-header.sticky-header, .mk-secondary-header, .transparent-header-sticky{
+     box-sizing:border-box;
+      -moz-box-sizing:border-box;
+      -webkit-box-sizing:border-box;
+      max-height: 80px;
+}
+.full-left{
+    float:left;
+}
+
+}
+@media handheld, only screen and (max-width: 770px){
+    .full-left{
+        float:none;
+    }
+
+    .header-title{
+
+        padding-top: 60px;
+
+    }
+    .mk-button{
+        margin-right:0;
+    }
+    .padding-right-15{
+    padding-right: 0 !important;
+}
+.padding-left-15{
+    padding-left: 0 !important;
+}
+    .mobile-center{
+        margin-right: auto!important;
+        margin-left: auto!important;
+        text-align: center!important;
+        float:none!important;
+    }
+    .mk-video-section-touch{
+        display: none;
+    }
+
+.mk-button-align.center, .mk-button-align.left, .mk-button-align.right {
+
+
+height: 56px;
+margin-bottom: 12px;
+}
+
+}
+
+form.header-searchform-input input[type=text] {
+    max-height: 79px;
+}
+/*   sing your song page  */
+.sys-top-butons-container .mk-button-align.center{
+    display: inline-block!important;
+}
+.sys-buttons{
+        margin-left: 5px;
+        margin-right: 5px;
+}
+.sys-top-butons-container{
+    text-align:center;
+    margin-top:20px;
+}
+.no-border{
+    border:none;
+}
+
+.sponsori ul{
+    text-align:center;
+}
+.sponsori li{
+ display: inline-block;
+ float: none!important;
+}
+.colorprotagonisti, .colorprotagonisti .team-member-position{
+    color:#ffffff!important;
+}
+
+/*********snow effect***************/
+
+.page-id-1474 .mk-section-mask{
+    background: none;
+    font-family: Androgyne;
+    background-image:
+    url('https://www.sanctusprodeo.ro/wp-content/uploads/2015/12/s12.png'),
+    url('https://www.sanctusprodeo.ro/wp-content/uploads/2015/12/s21.png'),
+    url('https://www.sanctusprodeo.ro/wp-content/uploads/2015/12/s31.png');
+    zoom: 150%;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index:1;
+    -webkit-animation: mk-section-mask 10s linear infinite;
+    -moz-animation: mk-section-mask 10s linear infinite;
+    -ms-animation: mk-section-mask 10s linear infinite;
+    animation: mk-section-mask 10s linear infinite;
+}
+@keyframes mk-section-mask {
+   0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
+}
+@-moz-keyframes mk-section-mask {
+   0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
+}
+@-webkit-keyframes mk-section-mask {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
+}
+
+@-ms-keyframes mk-section-mask {
+   0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  100% {background-position: 500px 1000px, 400px 400px, 300px 300px;}
+}
+
+/********* end snow effect***************/
+
+.page-id-184 .mk-video-player {
+    border:none;
+}
+
+.page-id-184 .mk-button {
+    font-size: 16px;
+}
+
+.page-id-184 .mk-button:hover {
+    background-color: #ff4351;
+    font-size: 16px;
+}
+
+.page-id-184 .mk-call-to-action {
+    padding: 25px 45px;
+}
+
+.postid-1774 #fancybox-content {
+    border-width: 0px;
+    width:100%;
+}
+
+
+/*Show The Love 2016 ***development:Paul Adam**design:Silviu Stefu**varianta 1*/
+.page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 43%!important;
+}
+
+.page-id-2092 .widgettitle:after {
+    background-color:#b6803f;
+}
+
+.page-id-2092 #mk-footer a:hover {
+    color: #b6803f;
+}
+
+.page-id-2092 .testimonial-position {
+    color:#b6803f;
+}
+
+.page-id-2092 #sub-footer {
+    border-top: 3px solid #b6803f !important;
+}
+
+.page-id-2092 .mk-footer-social a:hover {
+    color: #b6803f!important;
+}
+
+.page-id-2092 #mk-main-navigation ul ul.sub-menu a.menu-item-link:hover, .header-searchform-input .ui-autocomplete li:hover, #mk-main-navigation ul li.mk-header-wpml-ls > ul li a:hover {
+    background-color: #b6803f!important;
+}
+
+.page-id-2092 .animated-column-holder {
+    padding-top:100px!important;
+}
+
+.page-id-2092 .expandable-section-trigger .mk-expandable-wrapper {
+    margin: 100px auto 0px auto;
+}
+
+.page-id-2092 .mk-video-player {
+    border:none;
+}
+
+.page-id-2092 .ytp-chrome-top {
+    display:none!important;
+}
+
+.page-id-2092 .only-mobile-locations {
+    display:none;
+}
+
+.page-id-2092 .only-mobile-add-loc{
+    display:none;
+}
+
+.page-id-2092 .no-margin-stl p {
+    margin-bottom:0;
+}
+
+
+
+.page-id-2092 .emodal-content {
+    text-align: center!important;
+}
+.page-id-2092 .wpcf7-submit {
+
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    zoom: 1;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 12px;
+    -webkit-transform: translateZ(0);
+    -webkit-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -ms-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -o-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    width: 140px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 28px;
+     height: 34px;
+    border-top: none;
+    color: #b6803f;
+    border-bottom: none;
+    border-left: 2px solid #b6803f;
+    border-right: 2px solid #b6803f;
+    padding: 3px;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+}
+
+.page-id-2092 .wpcf7-submit:hover{
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    /* opacity: 1; */
+    color: #fff;
+    background-color: #b6803f;
+}
+
+.page-id-2092 #Emailnew{
+    margin-bottom:8px;
+}
+.page-id-2092 #Namenew {
+    margin-bottom:8px;
+}
+
+.page-id-2092 div.wpcf7-mail-sent-ok {
+     border: none;
+    color: #398f14;
+}
+
+.page-id-2092 #home-wrp{
+    padding: 30px 0;
+}
+
+@media only screen and (max-width: 768px) {
+.page-id-2092 .only-desktop-locations{
+    display:none;
+}
+
+.page-id-2092 .only-mobile-locations {
+    display:block;
+}
+.page-id-2092 .expandable-section-trigger .mk-expandable-wrapper{
+margin: 33px auto 0px auto;
+}
+.page-id-2092 .only-mobile-add-loc{
+    display:block;
+}
+
+.page-id-2092 .only-desktop-add-loc{
+    display:none;
+}
+
+.page-id-2092 .animated-column-holder {
+    height: 345px;
+}
+
+.page-id-2092 .animated-column-item {
+    height: 330px;
+}
+}
+
+@media only screen and (min-width: 1680px) and (max-width: 1920px){
+    .page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 46%!important;
+  }
+  div#header-video-camp {
+    min-height: 830px !important;
+  }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1680px){
+    .page-id-2092 .mk-page-section .page-section-fullwidth {
+        margin-top: 45%!important;
+    }
+    .page-id-2814 .connection-camp-title{
+        font-size: 68px !important;
+    }
+    .page-id-2814 h2.for-sanctus-pro-deo{
+        font-size:44px !important;
+    }
+    .page-id-2814 h2.rasnov-location{
+        font-size:33.9px !important;
+    }
+    .strat-3, .strat-31, .strat-32, .strat-33, .strat-34{
+        top: 160px;
+    }
+    .strat-2, .strat-21, .strat-22, .strat-23, .strat-24{
+        top: 80px;
+    }
+    .strat-1, .strat-11, .strat-12, .strat-13, .strat-14, .strat-15, .strat-16, .strat-17, .strat-18{
+        top: 20px;
+    }
+    div.sky-text{
+        top: 130px;
+    }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1279px){
+.page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 60%!important;
+}
+    .page-id-2814 .connection-camp-title{
+        font-size: 60px !important;
+    }
+    .page-id-2814 h2.for-sanctus-pro-deo{
+        font-size: 40.6px !important;
+    }
+    .page-id-2814 h2.rasnov-location{
+        font-size: 31.2px !important;
+    }
+    .strat-3, .strat-31, .strat-32, .strat-33, .strat-34{
+        top: 160px;
+    }
+    .strat-2, .strat-21, .strat-22, .strat-23, .strat-24{
+        top: 80px;
+    }
+    .strat-1, .strat-11, .strat-12, .strat-13, .strat-14, .strat-15, .strat-16, .strat-17, .strat-18{
+        top: 20px;
+    }
+    div.sky-text{
+        top: 240px;
+    }
+    .dashboard-trigger.res-mode{
+        display: none !important;
+    }
+
+    div.sky-text h3, div.sky-text h2, div.sky-text > div{
+      padding-right: 60px;
+      box-sizing: border-box;
+    }
+}
+
+@media only screen and (min-width: 1140px) and (max-width: 1280px){
+
+    div.sky-text h3, div.sky-text h2, div.sky-text > div{
+      padding-right: 0px;
+      width: 1100px;
+    }
+}
+
+@media only screen and (width: 1280px) and (height: 800px){
+.page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 47%!important;
+}
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 1279px){
+
+    .sun_is_up {
+      left: 60px;
+      background-size: 500px;
+    }
+
+    div.sky-text {
+      padding: 0px !important;
+      top: 170px;
+    }
+    .strat-3, .strat-31, .strat-32, .strat-33, .strat-34{
+        top: 80px;
+    }
+    .strat-2, .strat-21, .strat-22, .strat-23, .strat-24{
+        display: none;
+    }
+    .strat-1, .strat-11, .strat-12, .strat-13, .strat-14, .strat-15, .strat-16, .strat-17, .strat-18{
+        top: 20px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+.page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 54%!important;
+}
+
+    .page-id-2814 .connection-camp-title{
+        font-size: 60px !important;
+    }
+    .page-id-2814 h2.for-sanctus-pro-deo{
+        font-size: 39px !important;
+    }
+    .page-id-2814 h2.rasnov-location{
+        font-size: 30px !important;
+    }
+    div.sky-text{
+        /*bottom: 100px;*/
+        top: 135px;
+        padding: 0px !important;
+    }
+    div.sky-text h3, div.sky-text h2, div.sky-text > div{
+      padding-right: 60px;
+      box-sizing: border-box;
+    }
+    .page-id-2814 #vreau-si-eu-btn-camp{
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+.page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 95%!important;
+}
+    .page-id-2814 #pricing-section .title-pricing-camp{margin-top:50px!important;}
+    .page-id-2814 #pricing-section .mk-button-align.center, .mk-button-align.left, .mk-button-align.right {height: 83px;}
+    .page-id-2814 .activitati-ribbon {
+        font-size:22px!important;
+        position: initial;
+        margin: auto;
+        width: auto;
+    }
+    .activitati-ribbon span {
+        position:absolute;
+        z-index:99;
+        bottom:50px;
+        left:80px;
+        height:44px;
+    }
+
+    .faq-camp span, .info-camp-ribbon span, .activitati-ribbon span   {
+        position:relative;
+        height: 28px;
+        display: inline-block;
+    }
+
+    .activitati-ribbon span {
+        top:0px;
+        left:0px;
+    }
+
+    .muzica-bongos,
+    .partasie-biblie,
+    .foc-de-tabara-foc,
+    .jocuri-de-grup-tinta,
+    .volei-minge,
+    .drumetie-harta,
+    .rop-course-tiroliana,
+    .team-building-scule{
+        margin-left: 46vw;
+        margin-bottom: 15px!important;
+    }
+    .page-id-2814 .muzica-bongos span:before,
+    .page-id-2814 .partasie-biblie span:before,
+    .page-id-2814 .foc-de-tabara-foc span:before,
+    .page-id-2814 .jocuri-de-grup-tinta span:before,
+    .page-id-2814 .volei-minge span:before ,
+    .page-id-2814 .drumetie-harta span:before,
+    .page-id-2814 .rop-course-tiroliana span:before,
+    .page-id-2814 .team-building-scule span:before {
+        left: -90px;
+        position: absolute;
+        top: 5px;
+        content: "";
+        width: 80px;
+        height: 88px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+
+
+    .page-id-2814 .muzica-bongos span:before {background-image: url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/1.-Musica.png);    }
+    .page-id-2814 .partasie-biblie span:before {background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/2.-Partasie.png);    }
+    .page-id-2814 .foc-de-tabara-foc span:before {background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/3.-Foc-de-tabara.png);    }
+    .page-id-2814 .jocuri-de-grup-tinta span:before {background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/4.-Jocuri-de-grup.png);    }
+    .page-id-2814 .volei-minge span:before {background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/5.-Volei.png);    }
+    .page-id-2814 .drumetie-harta span:before {background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/6.-Drumetie.png);    }
+    .page-id-2814 .rop-course-tiroliana span:before {background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/7.-Rope-Course.png);    }
+    .page-id-2814 .team-building-scule span:before {background-image:url(https://www.sanctusprodeo.ro/wp-content/uploads/2016/05/8-Team-Building.png);}
+
+    .footer-title-camp-fullwidth span:after {content: "";height: 2px;width: 35%;background-color: #f2ecd9;display: block;}
+    .muzica-bongos, .partasie-biblie, .foc-de-tabara-foc, .jocuri-de-grup-tinta {margin-right:0px;}
+    .page-id-2814 .activitati-ribbon span, .page-id-2814 .faq-camp span, .page-id-2814 .info-camp-ribbon span {height: 28px;line-height: 28px!important;}
+    .info-camp-ribbon span, .faq-camp span ,.activitati-ribbon span {padding: 10px 10px;}
+    .creier-pe-mobil{margin-top:100px;}
+    #info-tabara-section #fancy-title-573fc5f9ddb65 span{
+        line-height:20px!important;
+    }
+    #info-tabara-section #fancy-title-573fc5f9ddb65{
+        font-size:16px!important;
+    }
+    #info-tabara-section .mk-image {
+    text-align:center!important;margin:auto;}
+    #info-tabara-section .mk-image img{
+        max-width:75%;
+
+    }
+    #info-tabara-section .mk-padding-shortcode {
+        height:30px!important;
+    }
+    .page-id-2814 #footer-camp {
+        background-position: center top!important;
+    }
+    .text-activitati span {
+        font-size: 18px;
+        }
+    #footer-camp {
+        min-height:auto!important;
+    }
+
+    .page-id-2814 #pricing-section .mk-buttom {width:100%;}
+    .page-id-2814 #pricing-section .mk-padding-shortcode {display:none;}
+    .page-id-2814 #pricing-section .mk-button-align{
+        margin-bottom: 0px;
+        width:100%!important;
+    }
+    .page-id-2814 #activitati-section-mobile{
+        display:block;
+    }
+    .page-id-2814 #activitati-section-desktop{
+        display:none;
+    }
+    .page-id-2814 .only-mobile{
+    display:block;
+    }
+    .page-id-2814 .only-desktop{
+    display:none;
+    }
+    .page-id-2814 .text-main-wrp {
+        line-height:19px!important;
+        font-size:13px!important;
+    }
+    .page-id-2814 .connection-camp-title{
+        font-size: 50px !important;
+    }
+    .page-id-2814 h2.for-sanctus-pro-deo{
+        font-size: 30px !important;
+    }
+    .page-id-2814 h2.rasnov-location{
+        font-size: 23.2px !important;
+    }
+
+    div.sky-text h3, div.sky-text h2, div.sky-text > div{
+      padding-right: 36px;
+      box-sizing: border-box;
+    }
+
+    .page-id-2814 #vreau-si-eu-btn-camp{
+        font-size: 16px;
+        float: right;
+    }
+}
+
+@media only screen and (max-width: 680px){
+.page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 106%!important;
+}
+}
+
+@media only screen and (max-width: 480px){
+
+
+    .page-id-2814 .connection-camp-title{
+        font-size: 36px !important;
+    }
+    .page-id-2814 h2.for-sanctus-pro-deo{
+        font-size: 24px !important;
+        text-shadow: -1px 2px 0px #337d8d;
+    }
+    .page-id-2814 h2.rasnov-location{
+        font-size: 18.5px !important;
+    }
+    .strat-3, .strat-31, .strat-32, .strat-33, .strat-34, .strat-2, .strat-21, .strat-22, .strat-23, .strat-24,.strat-1, .strat-11, .strat-12, .strat-13, .strat-14, .strat-15, .strat-16, .strat-17, .strat-18{
+        display: none;
+    }
+
+    div.sky-text h3, div.sky-text h2, div.sky-text > div{
+      padding-right: 62px;
+      box-sizing: border-box;
+    }
+
+    .sun_is_up {
+      left: 0px;
+      background-size: 300px;
+    }
+    div.sky-text{
+        /*bottom: 100px;*/
+        /*top: auto;*/
+    }
+    .relief{
+        background-size: auto 270px;
+    }
+}
+
+
+
+@media only screen and (width: 480px) and (height: 800px){
+.page-id-2092 .mk-page-section .page-section-fullwidth {
+    margin-top: 112%!important;
+}
+}
+
+@media only screen and (width: 320px) and (height: 480px){
+.page-id-2092 .mk-button-align.center, .mk-button-align.left, .mk-button-align.right {
+    width: 50%;
+}
+}
+
+@media only screen and (max-width: 360px){
+    .header_page div.sky-text {
+      top: 20px;
+      /*bottom: 90px;*/
+    }
+
+    .page-id-2814 .connection-camp-title{
+        font-size: 27px !important;
+    }
+    .page-id-2814 h2.for-sanctus-pro-deo{
+        font-size: 18px !important;
+    }
+    .page-id-2814 h2.rasnov-location{
+        font-size: 13.9px !important;
+    }
+
+    .page-id-2814 #vreau-si-eu-btn-camp{
+      font-size: 13px;
+      border: 1px solid;
+      padding: 5px 16px;
+    }
+    .header_page .mk-button-align.center{
+      width: 100%;
+    }
+
+}
+
+
+
+@media only screen and (min-height: 320px) and (max-width: 768px){
+  div.sky-text {
+    top: 120px;
+  }
+}
+
+
+@media only screen and (max-width: 801px) and (min-height: 880px){
+  .relief {
+
+    background-size: auto 500px;
+    background-position: -200px 100%
+  }
+}
+
+@media only screen and (min-height: 880px){
+  div.sky-text {
+    top: 240px;
+  }
+}
+/*Show The Love 2016 ***development:Paul Adam**design:Silviu Stefu**end varianta 1*/
+
+/*Show The Love 2016 ***development:Paul Adam**design:Silviu Stefu**varianta finala*/
+.page-id-2542 #stl-promo-btn, #program-btn, #info-bilete-stl {
+    border-top:none;
+    border-bottom:none;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+}
+
+.page-id-2542 #info-bilete-stl {
+    border-top:none;
+    border-bottom:none;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    border-left:2px solid #fff;
+    border-right:2px solid #fff;
+    padding:16px 25px;
+}
+
+.page-id-2542 #info-bilete-stl:hover {
+    background-color: #fff;
+    color:#000;
+}
+
+
+
+.page-id-2542 a#ticket-btn:hover, .page-id-2542 a#ticket-btn-sb:hover {
+    -webkit-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95);
+    -moz-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95);
+    -o-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95);
+    animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95);
+    /*opacity: 1;*/
+    color: #fff;
+    background-color: #b6803f;
+}
+
+.page-id-2542 #vreau-bilet-stl-jos:hover {
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    /*opacity: 1;*/
+    color: #fff;
+    background-color: #b6803f;
+}
+
+.page-id-2542 #vreau-bilet-stl-jos {
+    width: 140px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 28px;
+    height: 26px;
+    color: #b6803f;
+    border-left: 2px solid #b6803f;
+    border-right: 2px solid #b6803f;
+    padding: 3px;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+}
+
+.page-id-2542 a#ticket-btn, .page-id-2542 a#ticket-btn-sb  {
+    width: 99px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 17px;
+    height: 16px;
+    color: #b6803f;
+    border-left: 2px solid #b6803f;
+    border-right: 2px solid #b6803f;
+    padding: 3px;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+}
+
+
+
+.page-id-2542 .mk-dark-logo{
+ content: url(https://sanctusprodeo.ro/wp-content/uploads/2016/04/LOGO_STL.svg);
+}
+
+.page-id-2542 .only-mobile-locations {
+    display:none;
+}
+
+.page-id-2542 .only-mobile-add-loc{
+    display:none;
+}
+
+@media only screen and (max-width: 768px) {
+
+.page-id-2542 .only-desktop-locations{
+    display:none!important;
+}
+
+.page-id-2542 .only-mobile-add-loc{
+    display:block;
+}
+
+.page-id-2542 .only-desktop-add-loc{
+    display:none;
+}
+}
+
+#vreau-bilet-stl-jos-sb {
+    margin-right:0px;
+}
+.page-id-2542 #vreau-bilet-stl-jos2, .page-id-2542 #vreau-bilet-stl-jos-sb, .page-id-2542 .map-ticket-btn  {
+    position: relative;
+    display: inline-block;
+    /*margin-right: 10px;*/
+    margin-left: 0;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    zoom: 1;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 12px;
+    -webkit-transform: translateZ(0);
+    -webkit-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -ms-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -o-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    width: 140px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 26px;
+     height: 26px;
+    /*float:right;*/
+    border-top: none;
+    color: #b6803f;
+    border-bottom: none;
+    border-left: 2px solid #b6803f;
+    border-right: 2px solid #b6803f;
+    padding: 3px;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+}
+
+.page-id-2542 #vreau-bilet-stl-jos2:hover, #vreau-bilet-stl-jos-sb:hover, .map-ticket-btn:hover{
+/*-webkit-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    /* -moz-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    /* -o-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    /* animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    /* opacity: 1; */
+    color: #fff;
+    background-color: #b6803f;
+}
+
+.page-id-2542 p#Whatdoyouwantustolookat {
+    background-color: #f9f9f9;
+    border: none;
+    height: 70px;
+    text-align: center;
+    font-family: 'PT Sans'!important;
+        font-size: 16px;
+    color: #1c1c1c!important;
+}
+
+.page-id-2542 a#mymodalstl2 {
+    position: relative;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 0;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    zoom: 1;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 12px;
+    -webkit-transform: translateZ(0);
+    -webkit-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -ms-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -o-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    width: 140px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 26px;
+     height: 26px;
+    float:left;
+    border-top: none;
+    color: #b6803f;
+    border-bottom: none;
+    border-left: 2px solid #b6803f;
+    border-right: 2px solid #b6803f;
+    padding: 3px;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+}
+
+.page-id-2542 a#mymodalstl2:hover{
+/*-webkit-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    /* -moz-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    /* -o-animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    /* animation: mk_fade .7s 1 cubic-bezier(0.445,.05,.55,.95); */
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    /* opacity: 1; */
+    color: #fff;
+    background-color: #b6803f;
+}
+
+.page-id-2388 .mk-fancy-text span {
+    font-size: 24px!important;
+    font-family: 'PT Sans'!important;
+}
+
+.page-id-2542 #align-ticket-btn .mk-button-align.left {
+    text-align: left;
+    float: none!important;
+    width: 40%;
+}
+
+.page-id-2542 #align-ticket-btn .mk-button-align.right {
+    width: 50%;
+    text-align: right;
+    float: none!important;
+}
+
+.page-id-2542 .pret-ticket-only-mobile {
+    display:none;
+}
+
+.page-id-2542 .loc-ticket, .loc-ticket-sb {
+    font-size:16px;
+    font-weight:600;
+    color:#757575!important;
+    font-family:'PT Sans'!important;
+    margin-bottom: 0px;
+}
+
+.page-id-2542 .adresa-ticket, .adresa-ticket-sb {
+    font-size:16px;
+    font-weight:normal;
+    color:#1c1c1c!important;
+    font-family:'PT Sans'!important;
+}
+
+.page-id-2542 .pret-ticket, .pret-ticket-sb {
+    font-size:16px;
+    font-weight:600;
+    color:#757575!important;
+    font-family:'PT Sans'!important;
+}
+
+.page-id-2542 p.adress-ticket-wrp {
+    width: 50%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+}
+
+.page-id-2542 p.map-ticket-wrp {
+    width: 50%;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    line-height: 55px;
+}
+
+
+@media only screen and (max-width:640px) {
+    .page-id-2542 p.adress-ticket-wrp {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.page-id-2542 p.map-ticket-wrp {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.page-id-2542 .pret-ticket-only-mobile {
+    display:block;
+    font-size:16px;
+    font-weight:600;
+    color:#757575!important;
+    font-family:'PT Sans'!important;
+}
+}
+
+@media only screen and (width:320px) {
+.page-id-2542 #align-ticket-btn .mk-button-align {
+    width:100%!important;
+}
+}
+.page-id-2542 .tickets-title span {
+    padding: 0px 15px;
+    border-right: 3px solid #b6803f;
+    border-left: 3px solid #b6803f;
+}
+.page-id-2542 .concert-location span {
+    padding: 0px 15px;
+    border-right: 3px solid #fff;
+    border-left: 3px solid #fff;
+    text-transform: uppercase;
+}
+
+.page-id-2542 .tickets-title:before {content: " ";width: 90px;height: 3px;background-color: #b6803f;display: inline-block;margin-top: -7px;vertical-align: middle;}
+
+.page-id-2542 .tickets-title:after {
+    content: " ";
+    width: 90px;
+    height: 3px;
+    background-color: #b6803f;
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+}
+
+.page-id-2542 .concert-location:before {
+    content: " ";
+    width: 90px;
+    height: 3px;
+    background-color: #fff;
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+
+}
+
+.page-id-2542 .concert-location:after {
+    content: " ";
+    width: 90px;
+    height: 3px;
+    background-color: #fff;
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+}
+
+.page-id-2542 .sponsorii:before {
+    content: " ";
+    width: 90px;
+    height: 3px;
+    background-color: #1c1c1c;
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+
+}
+
+.page-id-2542 .sponsorii:after {
+    content: " ";
+    width: 90px;
+    height: 3px;
+    background-color: #1c1c1c;
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+}
+
+.page-id-2542 .sponsorii span {
+    padding: 0px 15px;
+    border-right: 3px solid #1c1c1c;
+    border-left: 3px solid #1c1c1c;
+}
+
+.page-id-2542 .partenerii:before {
+    content: " ";
+    width: 70px;
+    height: 3px;
+    background-color: #1c1c1c;
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+
+}
+
+.page-id-2542 .partenerii:after {
+    content: " ";
+    width: 70px;
+    height: 3px;
+    background-color: #1c1c1c;
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+}
+
+.page-id-2542 .partenerii span {
+    padding: 0px 15px;
+    border-right: 3px solid #1c1c1c;
+    border-left: 3px solid #1c1c1c;
+}
+
+
+/*Show The Love 2016 ***development:Paul Adam**design:Silviu Stefu**varianta finala*/
+
+.page-id-2542 #info-bilete-stl:hover {
+    background-color: #fff;
+    color:#000;
+}
+
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 43%!important;
+}
+
+.page-id-2542 .widgettitle:after {
+    background-color:#b6803f;
+}
+
+.page-id-2542 #mk-footer a:hover {
+    color: #b6803f;
+}
+
+.page-id-2542 .testimonial-position {
+    color:#b6803f;
+}
+
+.page-id-2542 #sub-footer {
+    border-top: 3px solid #b6803f !important;
+}
+
+.page-id-2542 .mk-footer-social a:hover {
+    color: #b6803f!important;
+}
+
+.page-id-2542 .animated-column-holder {
+    padding-top:100px!important;
+}
+
+.page-id-2542 .expandable-section-trigger .mk-expandable-wrapper {
+    margin: 100px auto 0px auto;
+}
+
+.page-id-2542 .mk-video-player {
+    border:none;
+}
+
+.page-id-2542 .ytp-chrome-top {
+    display:none!important;
+}
+
+.page-id-2542 ::selection {
+    background-color:#b6803f;
+}
+
+
+
+.page-id-2542 .theme-main-wrapper:not(.vertical-header) #mk-header, .theme-main-wrapper:not(.vertical-header) .mk-secondary-header {
+    border-top-color:#b6803f;
+}
+
+.page-id-2542 .mk-loader {
+    border: 2px solid #b6803f;
+}
+
+.page-id-2542 .only-mobile-locations {
+    display:none;
+}
+
+.page-id-2542 .only-mobile-add-loc{
+    display:none;
+}
+
+@media only screen and (max-width: 768px) {
+.page-id-2542 .only-desktop-locations{
+    display:block;
+}
+
+.page-id-2542 .only-mobile-locations {
+    display:block;
+}
+.page-id-2542 .expandable-section-trigger .mk-expandable-wrapper{
+margin: 33px auto 0px auto;
+}
+.page-id-2542 .only-mobile-add-loc{
+    display:block;
+}
+
+.page-id-2542 .only-desktop-add-loc{
+    display:none;
+}
+
+.page-id-2542 .animated-column-holder {
+    height: 345px;
+}
+
+.page-id-2542 .animated-column-item {
+    height: 330px;
+}
+}
+
+@media only screen and (min-width: 1680px) and (max-width: 1920px){
+    .page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 43%!important;
+}
+}
+
+@media only screen and (width: 1366px) and (height: 768px){
+    .page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 46%!important;
+}
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1680px){
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 50%!important;
+}
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1280px){
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 60%!important;
+}
+}
+
+@media only screen and (width: 1280px) and (height: 800px){
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 47%!important;
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 54%!important;
+}
+}
+
+@media only screen and (max-width: 768px){
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 100%!important;
+}
+}
+
+@media only screen and (max-width: 680px){
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 118%!important;
+}
+}
+
+@media only screen and (width: 480px) and (height: 800px){
+.page-id-2542 .mk-page-section .page-section-fullwidth {
+    margin-top: 125%!important;
+}
+}
+
+@media only screen and (width: 320px) and (height: 480px){
+.mk-button-align.center, .mk-button-align.left, .mk-button-align.right {
+    width: 50%;
+}
+}
+
+.page-id-2542 .no-margin-stl p {
+    margin-bottom:0;
+}
+
+.page-id-2542 .emodal-content {
+    text-align: center!important;
+}
+
+.page-id-2542 .wpcf7-submit {
+
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    zoom: 1;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 12px;
+    -webkit-transform: translateZ(0);
+    -webkit-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -ms-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    -o-transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    transition: color .2s ease-in-out,background .2s ease-in-out,border .2s ease-in-out;
+    width: 140px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 28px;
+     height: 34px;
+    border-top: none;
+    color: #b6803f;
+    border-bottom: none;
+    border-left: 2px solid #b6803f;
+    border-right: 2px solid #b6803f;
+    padding: 3px;
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+}
+
+.page-id-2542 .wpcf7-submit:hover{
+    -webkit-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -moz-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -ms-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    -o-transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    transition: color .6s ease-in-out,background .6s ease-in-out,border .6s ease-in-out;
+    /* opacity: 1; */
+    color: #fff;
+    background-color: #b6803f;
+}
+
+.page-id-2542 #Emailnew{
+    margin-bottom:8px;
+}
+.page-id-2542 #Namenew {
+    margin-bottom:8px;
+}
+
+.page-id-2542 div.wpcf7-mail-sent-ok {
+     border: none;
+    color: #398f14;
+}
+
+.page-id-2542 #home-wrp{
+    padding: 60px 0;
+}
+
+.page-id-2542 .bilet-on-is{
+    float:none;
+    width:50%;
+    text-align:right;
+}
+.page-id-2542 .bilet-of-is{
+    text-align:left;
+    width:40%;
+}
+
+.decacat {
+    display:none;
+}
+
+.pointedbilet-of-sb, #ticket-btn-sb {
+    pointer-events: none;
+   cursor: default;
+}
+
+.page-id-2542 a#ticket-btn-sb {
+    height:30px;
+}
+
+.page-id-2542 .no-ticket-btn {
+    display:none!important;
+}
+
+.page-id-2542 .loc-ticket-sb {
+    text-transform: uppercase;
+}
+.page-id-2542 #mk-main-navigation ul ul.sub-menu a.menu-item-link:hover, .header-searchform-input .ui-autocomplete li:hover, #mk-main-navigation ul li.mk-header-wpml-ls > ul li a:hover {
+    background-color:#b6803f!important;
+}
+
+/*Show The Love 2016 ***development:Paul Adam**design:Silviu Stefu**end varianta finala*/
+
+/*vote name of summer camp 2016*/
+
+.page-id-2806 iframe {
+    width:100%;
+}
+
+@media only screen and (max-width: 768px) {
+.page-id-2806 iframe .freebirdMaterialScalecontentRangeLabelColumn {
+    display:none!important;
+}
+}
+
+
+@media only screen and (max-height: 480px){
+  .header_page div.sky-text{
+    top: 10px;
+  }
+  .strat-1, .strat-11, .strat-12, .strat-13, .strat-14, .strat-15, .strat-16, .strat-17, .strat-18{
+    display: none;
+  }
+  .strat-2, .strat-21, .strat-22, .strat-23, .strat-24{
+    display: none;
+  }
+  .strat-3, .strat-31, .strat-32, .strat-33, .strat-34{
+    display: none;
+  }
+}
+@media only screen and (max-height: 400px){
+  .page-id-2814 #mk-header{
+display: none;
+  }
+}
+
+@media only screen and (min-width: 1921px){
+  div#header-video-camp {
+    min-height: 830px !important;
+  }
+}
+
+@media only screen and (min-width: 1921px) and (min-height: 1081px){
+
+    .page-id-2814 .connection-camp-title{
+        font-size: 100px !important;
+    }
+    .page-id-2814 h2.for-sanctus-pro-deo{
+        font-size:66px !important;
+    }
+    .page-id-2814 h2.rasnov-location{
+        font-size:50.5px !important;
+    }
+    div.sky-text{
+        top: 290px;
+    }
+   .strat-3 img, .strat-31 img, .strat-32 img, .strat-33 img, .strat-34 img{
+    width: 250px;
+    }
+  .page-id-2814 #vreau-si-eu-btn-camp {
+    padding: 10px 40px;
+    font-size: 40px;
+  }
+}
+
+
+
+.page-id-2814 .mk-main-wrapper-holder{
+    display: none;
+}
+
+.page-id-2814 .mk-button-align.right{
+  text-align: right !important;
+  float: none;
+  margin: auto;
+  display: block;
+}
+
+div#svgloader {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-color: #005E70;
+  z-index: 999;
+  text-align: center;
+  top: 0;
+}
+
+
+svg {
+  width: 300px;
+  height: 400px;
+  position: relative;
+  top: 30%;
+}
+
+
+* {
+  stroke: #F1EEDA;
+  stroke-linecap: round;
+  vector-effec: non-scaling-stroke;
+}
+
+#line { stroke-width: 3; }
+
+text {
+  font: .875em PT Sans, sans-serif;
+}
+
+#mover {
+  animation: sun-motion 2s cubic-bezier(0.1755, 0.885, 0.32, 1.275) infinite;
+}
+
+#main {
+  fill: transparent;
+  stroke-width: 7;
+}
+
+#eyes {
+  animation: eye-motion 5s ease-out infinite;
+
+  circle { fill: #F1EEDA; }
+}
+
+#ray {
+  stroke-width: 4;
+}
+
+#rays {
+  animation: rot 5s linear infinite;
+}
+
+@keyframes rot {
+  to { transform: rotate(.25turn); }
+}
+
+@keyframes eye-motion {
+  0%, 20%, 49%, 100% { transform: translate(-13px); }
+  21%, 25%, 29%, 47% { transform: translate(13px) scaleY(1); }
+  27% { transform: translate(13px) scaleY(0); }
+  48% { transform: translate(0); }
+}
+
+@keyframes sun-motion {
+  0%,  100% { transform: translateY(-36px); }
+  50% { transform: translateY(25px); }
+}
+
+
+.jumper {
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  position: absolute;
+  margin: auto;
+  width: 50px;
+  height: 50px;
+}
+.jumper > div {
+  background-color: #fff;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  position: absolute;
+  opacity: 0;
+  width: 50px;
+  height: 50px;
+  -webkit-animation: jumper 1s 0s linear infinite;
+  animation: jumper 1s 0s linear infinite;
+}
+.jumper > div:nth-child(2) {
+  -webkit-animation-delay: 0.33333s;
+  animation-delay: 0.33333s;
+}
+.jumper > div:nth-child(3) {
+  -webkit-animation-delay: 0.66666s;
+  animation-delay: 0.66666s;
+}
+@-webkit-keyframes jumper {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+  5% {
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+@keyframes jumper {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+  5% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+
+/*vote name of summer camp 2016 end*/
+
+/* Responsive rules
+@media screen and (min-width: 320px) {}
+@media screen and (min-width: 320px) and (max-width: 480px) {}
+@media screen and (min-width: 481px) and (max-width: 768px) {}
+@media screen and (min-width: 769px) and (max-width: 1140px) {}
+@media screen and (min-width: 1141px) and (max-width: 1280px) {}
+@media screen and (min-width: 1281px) and (max-width: 1366px) {}
+@media screen and (min-width: 1367px) and (max-width: 1680px) {}
+@media screen and (min-width: 1681px) and (max-width: 1920px) {}
+@media screen and (min-width: 1921px) {}
+*/
